@@ -1,0 +1,173 @@
+body{
+    font-family: 'Akaya Kanadaka', cursive;
+font-family: 'News Cycle', sans-serif;
+background-color: #282242;
+
+}
+
+h1{
+    font-size: 40px;
+}
+#welcome{
+    color: darkgrey;
+    font-weight: 400;
+    font-size: 200%;
+  
+}
+#work{
+    color: rgba(169, 169, 169, 0.801);
+}
+
+#my{
+    color: rgb(156, 67, 67);
+}
+#name{
+    color:#1dad9a;
+    font-size: 400%;
+    font-weight: 400;
+    text-align: initial;
+}
+#profession{
+    color:#1dad9a;
+}
+.toppart{
+    
+    background-image: url(./image/top-banner.png);
+    background-repeat: no-repeat;
+  padding-left: -10%;
+   
+}
+
+.topadd{
+    display: flex;
+    width: 50%;
+    padding-left:10% ;
+    margin-bottom: 15%;
+}
+.wel-text{
+   
+   padding: 10%;
+   margin-bottom: 10%;
+   margin-right: 50%;
+
+}
+
+.toppart img{
+    width: 60%;
+   
+  
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(49, 161, 165, 0.616) , rgba(38, 12, 99, 0.445));
+    color: rgb(194, 175, 152);
+    font-weight: 900;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+}
+#skills{
+    color: rgb(172, 243, 243);
+    
+}
+.felxible-cotainter{
+    display: flex;
+    margin-bottom: 200px;
+}
+.project-item{
+    
+    width: 300%;
+    margin-left: 10%;
+    margin-right: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+ text-align: start;
+    box-shadow: 10px 10px 40px rgb(167, 129, 202);
+    background-image: linear-gradient(rgb(156, 238, 193),rgb(240, 62, 62));
+    font-size: 20px;
+    
+    
+    
+}
+.project-name{
+    color:rgb(133, 66, 153) ;
+    padding-left: 0 px ;
+    margin: 5px;
+   
+   
+    
+}
+#laravel{
+    border: 12px solid;
+    border-image: linear-gradient(rgb(8, 223, 8),rgb(182, 15, 126)); 
+    border-image-slice: 1;
+    
+}
+
+#php{
+    border: 12px solid;
+    border-image: linear-gradient(rgb(101, 8, 223),rgb(182, 157, 15)); 
+    border-image-slice: 1; 
+}
+
+#java{
+    border: 12px solid;
+    border-image: linear-gradient(rgb(8, 198, 223),rgb(182, 115, 15)); 
+    border-image-slice: 1; 
+}
+#sharp{
+    border: 12px solid;
+    border-image: linear-gradient(rgb(223, 8, 8),rgb(182, 15, 118)); 
+    border-image-slice: 1; 
+}
+.link-buttons{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(52, 88, 165, 0.5) , rgba(22, 206, 151, 0.87));
+    color: #7ccee7;
+    font-weight: 900;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.last-part{
+    display: flex;
+    width: 80%;
+    padding-left:10% ;
+    margin-bottom: 20%;
+
+}
+.last-part img{
+    width: 40%;
+    padding-left: 20%;
+}
+
+#dream{
+    color: cornflowerblue;
+    font-size: 70px; 
+    font-family:cursive;
+}
+#web{
+    color: #b39d94be;
+    font-size: 40px; 
+    
+}
+#description{
+    color:#10a8ada2;
+    text-align: justify; 
+    font-size: 20px;
+    font-family:cursive;
+       
+}
+#cv{
+    margin: 20% 30% 40% 35% ;
+    
+    bottom: 50;
+    
+}
+footer p{
+    text-align: center;
+    font-size: 25px;
+ color: rgb(0, 72, 139);
+}
